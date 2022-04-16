@@ -1,0 +1,15 @@
+application_1 0 0
+application_2 0 0
+application_3 0 0
+application_4 0 0
+application_5 0 0
+application_6 0 0
+application_7 0 0
+application_8 1 5
+application_9 0 0
+application_10 0 0
+application_11 0 0
+application_12 0 0
+application_13 0 0
+application_14 0 0
+application_15 0 0
